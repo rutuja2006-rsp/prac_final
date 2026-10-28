@@ -1,6 +1,5 @@
-%%writefile /content/requirements.txt
-streamlit
-pandas
-numpy
-scikit-learn
-plotly
+streamlit>=1.40.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+plotly>=5.24.0
