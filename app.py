@@ -1,4 +1,4 @@
-%%writefile /content/app.py
+
 
 import warnings
 warnings.filterwarnings("ignore")
