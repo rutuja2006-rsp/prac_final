@@ -1,0 +1,6 @@
+%%writefile /content/requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
